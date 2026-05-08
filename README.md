@@ -20,6 +20,7 @@ This project automates customer support monitoring using Power Automate Desktop.
 - Microsoft Excel
 - Gmail SMTP
 - Power BI
+- Python for EDA
 
 ---
 
