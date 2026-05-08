@@ -31,13 +31,4 @@ This project automates customer support monitoring using Power Automate Desktop.
 5. Generate reporting workflow
 ---
 
-## Project Structure
 
-```text
-customer-support-automation-power-automate/
-│
-├── automation-flow/
-├── data/
-├── screenshots/
-├── powerbi-dashboard/
-└── README.md
